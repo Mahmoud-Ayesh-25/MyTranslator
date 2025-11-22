@@ -17,7 +17,7 @@ namespace MyTranslatorProject
 
         void SetTranslationsHistory_dgv()
         {
-            if (translations.Rows.Count == 0) return;
+            if (translations.Columns.Count == 0) return;
 
             dgvTranslationsHistory.RowTemplate.Height = 35;
             dgvTranslationsHistory.DataSource = translations;
@@ -33,6 +33,8 @@ namespace MyTranslatorProject
 
         void FilterApplied()
         {
+            if (translations.Columns.Count == 0) return;
+
             switch (cbFilter.SelectedIndex)
             {
                 case 0:
