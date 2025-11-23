@@ -31,9 +31,11 @@ No switching apps, no extra steps.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat&logo=.net&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![WinForms](https://img.shields.io/badge/Windows_Forms-0078D4?style=flat&logo=windows&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=sql-server&logoColor=white)
+![WinForms](https://img.shields.io/badge/Windows_Forms-0078D4?style=flat&logo=windows&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 ---
 
